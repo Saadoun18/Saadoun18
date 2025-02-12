@@ -16,7 +16,7 @@
 - 👀 I’m interested in Front-End Web Development 👨🏻‍💻
 - 🌱 I’m currently studying Computer Sciences at UoPeople 🎓
 - 💞️ I’m looking to collaborate on Web Pages Development Practicing 🫱🏼‍🫲🏽
-- 📫 How to reach me "saadoun.18.saeed@gmail.com" 📧
+- 📫 How to reach me "Saeed.Ghanem@proton.me" 📧
 - 😄 Pronouns: Learner, Friendly 😎
 - ⚡ Fun fact: I'm Muslim ☪
 
