@@ -7,7 +7,7 @@
 <a href="https://github.com/Saadoun18" target="blank" ><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="40" /></a>
 <a href="https://linktr.ee/saadoun18" target="blank"><img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="linktr.ee/Saadoun18" height="30" width="40" /></a>
 <a href="https://www.freecodecamp.org/Saadoun18" target="blank"><img align="center" src="https://simpleicons.org/icons/freecodecamp.svg" alt="freecodecamp.org/Saadoun18" height="30" width="40" /></a>
-<a href = "mailto: sadoun.18.saeed@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href = "mailto: Saeed.Ghanem@proton.me"><img align="center" src="https://simpleicons.org/icons/protonmail.svg" height="30" width="40" /></a>
 <a href="https://wa.me/+967780589108" target="blank" > <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' width="30" height='40' /></a>
 </p>
 
