@@ -11,7 +11,7 @@
 <a href="https://wa.me/+967780589108" target="blank" > <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' width="30" height='40' /></a>
 </p>
 
-<p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Salimer"</img> </p>
+<p align="center"> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cf06a29-04a0-4466-9f83-ab6b9658149f/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif" alt="Salimer"</img> </p>
 
 - 👀 I’m interested in Front-End Web Development 👨🏻‍💻
 - 🌱 I’m currently studying Computer Sciences at UoPeople 🎓
