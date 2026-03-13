@@ -4,6 +4,7 @@
 <!-- links -->
 <p align="center">
 <a href="https://www.linkedin.com/in/SaeedGhanem/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="moyasi" height="30" width="40" /></a>
+<a href="https://x.com/Saadoun_18" target="blank"><img align="center" src="https://simpleicons.org/icons/x.svg" alt="moyasi" height="30" width="40" /></a>
 <a href="https://github.com/Saadoun18" target="blank" ><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="40" /></a>
 <a href="https://linktr.ee/saadoun18" target="blank"><img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="linktr.ee/Saadoun18" height="30" width="40" /></a>
 <a href="https://www.freecodecamp.org/Saadoun18" target="blank"><img align="center" src="https://simpleicons.org/icons/freecodecamp.svg" alt="freecodecamp.org/Saadoun18" height="30" width="40" /></a>
@@ -76,17 +77,17 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saadoun18&theme=dark)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadoun18&show_icons=true&theme=radical&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadoun18&show_icons=true&theme=radical&rank_icon=github)](https://github.com/Saadoun18/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadoun18&layout=compact&theme=dark)
 
-<br/>
+<!-- <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Badges
+### The Card
 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Saadoun18&theme=juicyfresh)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Saadoun18&repo=github-readme-stats)](https://github.com/Saadoun18/github-readme-stats) -->
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
