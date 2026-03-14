@@ -26,6 +26,21 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🛠️ My Toolkit
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## Scrimba
+[![Certificate](https://img.shields.io/badge/Fullstack%20Developer%20Path-165DFC)](https://scrimba.com/fullstack-path-c0fullstack?via=u4220142) <br>
+[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com?via=u4220142) <br>
+[![Certificate](https://img.shields.io/badge/Frontend%20Developer%20Path-8022FF)](https://scrimba.com/frontend-path-c0j?via=u4220142)
+[![Certificate](https://img.shields.io/badge/Backend%20Developer%20Path-009788)](https://scrimba.com/the-backend-developer-path-c0tbi0l98f?via=u4220142)
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!--
 Saadoun18/Saadoun18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -88,6 +103,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Saadoun18&repo=github-readme-stats)](https://github.com/Saadoun18/github-readme-stats) -->
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Projects
+
+| | |
+|---|---|
+| <br>**[My Portfolio v1](http://saeedghanem.me/)** <img src="https://img.icons8.com/?size=120&id=4564MUHGIIbe&format=png" alt="Icon" width="18" /><br><br>This project is a personal profile page (Portfolio) that was built to be a digital interface that showcases my skills as a front-end developer and my technical projects. In this version, I focused on simplicity, speed, and high performance.<br><br><sub>HTML • CSS • Bootstrap • JavaScript</sub><br><br> | <br>**Bilingual Personal Card](http://saeedghanem.me/personal-card)** <img src="https://img.icons8.com/?size=96&id=kI89qXDv4f5O&format=png" alt="Icon" width="18" /><br><br>An interactive digital business card, which started as a mock-up of a Scrimba pipeline, and has been fully developed and transformed into a professional bilingual tool. The project showcases the skills of bridging elegant design and functional programming using JavaScript.<br><br><sub>HTML • CSS • JavaScript</sub><br><br> |
+| | |
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
